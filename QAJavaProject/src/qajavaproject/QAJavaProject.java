@@ -44,7 +44,7 @@ public class QAJavaProject {
              }
         System.out.println(" ");
         
-        for (int k =0; k<=10; k++){
+        for (int k =1; k<=10; k++){
             
             System.out.print(k*10 +" ,");
         }
